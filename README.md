@@ -1,7 +1,5 @@
 # Project - Stack overflow 주요기능 Clone
 
-### 배포 주소 : https://bombom-stackoverflow.vercel.app/
-
 ### 프로젝트 기간 : 2023.04.14 - 2023.04.27 (14일)
 
 ### 프로젝트 이름 : Stackoverflow Clone Project
